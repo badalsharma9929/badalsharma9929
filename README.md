@@ -1,21 +1,193 @@
-# 💫 About Me:
-👋 Hi there! I'm Badal Sharma<br>🔬 Aspiring Data Scientist & Bioinformatics Enthusiast<br>📚 Pursuing B.Tech in Bioinformatics (8.22 CGPA) at Jaypee University of Information Technology<br>💡 Interested in machine learning, bioinformatics, and data-driven research.<br><br>🔭 I’m currently working on:<br>Machine Learning-based Classification of Sorghum Growth Stages using Metagenomic Data.<br>Computational Biology and Bioinformatics study of MYB genes in Rice Bean for drought tolerance and abiotic stress resistance.<br>🤝 I’m looking to collaborate on:<br>Bioinformatics and computational biology projects, especially focusing on gene analysis and microbial data.<br>Data science projects involving machine learning models in agriculture, genomics, or stock market predictions.<br>🙋‍♂️ I’m looking for help with:<br>Advanced applications of machine learning in biological data.<br>Enhancing my knowledge and skills in the latest bioinformatics tools and techniques.<br>🌱 I’m currently learning:<br>Artificial Intelligence fundamentals and advanced data science concepts.<br>Enhancing skills in Python, R, and various machine learning frameworks.<br>💬 Ask me about:<br>Bioinformatics data analysis.<br>Machine learning models and algorithms.<br>Gene profiling and computational biology.<br>⚡ Fun fact:<br>I love blending technology and biology to create innovative solutions that contribute to agriculture and genomics!
+# Badal Sharma - Full Stack Engineer & AI Specialist
 
+## 🎯 Professional Profile
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_badalsharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/badalsharma9929) 
-
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=badalsharma9929&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=badalsharma9929&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=badalsharma9929&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+Full Stack Developer and AI/ML Specialist with expertise in building intelligent, scalable applications. Currently focusing on **Full-Stack Development (FDE)** and **AI/ML Systems** with proven expertise in production-grade implementations.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=badalsharma9929&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Core Expertise
+
+### Full-Stack Development (FDE)
+- **Frontend**: TypeScript, React, Vue.js, responsive UI/UX design
+- **Backend**: Node.js, Python, RESTful APIs, microservices
+- **Databases**: SQL, NoSQL, vector databases
+- **DevOps**: Cloud deployment, CI/CD pipelines, scalability
+- **E-Commerce**: Shopify platform, post-purchase automation, revenue optimization
+
+### Artificial Intelligence & Machine Learning
+- **RAG Systems**: Retrieval-Augmented Generation, vector search optimization
+- **LLM Integration**: Prompt engineering, fine-tuning, output validation
+- **NLP**: Hallucination detection, semantic analysis, embeddings
+- **Vector Databases**: FAISS, embeddings optimization, similarity search
+- **Production AI**: Model deployment, inference optimization, monitoring
+
+---
+
+## 🚀 Flagship Projects
+
+### 🤖 AI & Machine Learning
+
+#### **AI Hallucination Detector**
+- Intelligent system detecting and mitigating hallucinations in LLM outputs
+- Advanced validation frameworks for AI-generated content
+- Production-ready monitoring and alerting systems
+- **GitHub**: [ai-hallucination-detector](https://github.com/badalsharma9929/ai-hallucination-detector)
+
+#### **RAG Vector Search System**
+- High-performance retrieval-augmented generation with FAISS
+- Semantic search optimization with sentence-transformers
+- Local deployment architecture for privacy and performance
+- **GitHub**: [assignment-rag](https://github.com/badalsharma9929/assignment-rag)
+
+---
+
+### 💻 Full-Stack Development
+
+#### **Perfect Plants SKU Storefront** ⭐
+- Enterprise-grade Shopify storefront with TypeScript
+- Post-purchase revenue engine and SKU management
+- Optimized checkout experience and upsell automation
+- **GitHub**: [Perfect-Plants-SKU](https://github.com/badalsharma9929/Perfect-Plants-SKU)
+- **Stack**: TypeScript, Shopify API, React
+
+#### **Thank You Upsell AI** ⭐
+- AI-powered post-purchase optimization platform
+- Intelligent bundling and product recommendations
+- Dynamic Thank You page automation
+- **GitHub**: [thank-you-upsell-ai](https://github.com/badalsharma9929/thank-you-upsell-ai)
+- **Stack**: JavaScript, Node.js, Shopify
+
+#### **Shoppers Store Upsell System**
+- Retail e-commerce optimization platform
+- Smart customer segmentation and personalization
+- Conversion rate optimization engine
+- **GitHub**: [Shoppers_store_upsell](https://github.com/badalsharma9929/Shoppers_store_upsell)
+- **Stack**: JavaScript, RESTful APIs
+
+#### **Project Ride (Fery)**
+- Full-stack ride-sharing application (2025 Batch)
+- Complete end-to-end architecture
+- Production-ready patterns and best practices
+- **GitHub**: [project-ride](https://github.com/badalsharma9929/project-ride)
+- **Stack**: JavaScript, Node.js, Modern frontend frameworks
+
+---
+
+## 🛠️ Technology Arsenal
+
+### Programming Languages
+```
+Primary: JavaScript, TypeScript, Python
+Secondary: Dart, Node.js, SQL
+```
+
+### AI/ML Stack
+```
+Frameworks: LLM APIs, Transformers, FAISS
+Libraries: sentence-transformers, NumPy, Pandas
+Platforms: OpenAI, HuggingFace, Custom models
+```
+
+### Full-Stack Tools
+```
+Frontend: React, Vue.js, TypeScript
+Backend: Express.js, FastAPI, Django
+Database: PostgreSQL, MongoDB, Vector DBs
+Cloud: Git, GitHub Actions, Docker
+```
+
+### Specializations
+```
+✓ Shopify Platform Development
+✓ RAG & Vector Search Systems
+✓ LLM Integration & Optimization
+✓ Post-Purchase Commerce Automation
+✓ Scalable API Architecture
+✓ AI Content Validation
+```
+
+---
+
+## 📊 Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| **Focus Areas** | FDE + AI/ML |
+| **Production Projects** | 6+ active |
+| **Tech Stack Depth** | 5+ languages |
+| **Specializations** | E-commerce, RAG, LLM |
+| **Shopify Expertise** | Post-purchase revenue optimization |
+
+---
+
+## 🎓 Professional Capabilities
+
+### Full-Stack Development
+- ✅ Complete MERN/MEAN stack applications
+- ✅ Microservices architecture design
+- ✅ API design and optimization
+- ✅ Database schema design and optimization
+- ✅ Frontend performance optimization
+- ✅ Deployment and scaling strategies
+
+### AI & Machine Learning
+- ✅ RAG system architecture
+- ✅ LLM integration and prompt optimization
+- ✅ Vector search implementation
+- ✅ Hallucination detection frameworks
+- ✅ Model fine-tuning and deployment
+- ✅ AI output validation and monitoring
+
+### E-Commerce Engineering
+- ✅ Shopify API mastery
+- ✅ Post-purchase automation
+- ✅ Revenue optimization strategies
+- ✅ Customer segmentation
+- ✅ Upsell/cross-sell systems
+
+---
+
+## 📁 Active Repositories
+
+**Primary Focus:**
+- [ai-hallucination-detector](https://github.com/badalsharma9929/ai-hallucination-detector) - AI/ML
+- [assignment-rag](https://github.com/badalsharma9929/assignment-rag) - AI/ML
+- [Perfect-Plants-SKU](https://github.com/badalsharma9929/Perfect-Plants-SKU) - FDE
+- [thank-you-upsell-ai](https://github.com/badalsharma9929/thank-you-upsell-ai) - FDE + AI
+- [Shoppers_store_upsell](https://github.com/badalsharma9929/Shoppers_store_upsell) - FDE
+- [project-ride](https://github.com/badalsharma9929/project-ride) - FDE
+
+---
+
+## 💡 Current Interests
+
+🔍 **Exploring:**
+- Advanced RAG architectures and optimization
+- LLM fine-tuning and custom model development
+- Full-stack AI applications
+- Serverless and edge computing for AI
+- Real-time data processing systems
+
+---
+
+## 🤝 Open To
+
+- **Full-Stack Development Roles**: End-to-end application development
+- **AI/ML Engineering**: LLM integration, RAG systems, model optimization
+- **Hybrid Roles**: Full-stack + AI solutions
+- **Consulting**: Architecture design, technical advisory
+- **Freelance Projects**: High-impact development work
+
+---
+
+## 📬 Let's Connect
+
+- **GitHub**: [@badalsharma9929](https://github.com/badalsharma9929)
+- **Current Focus**: FDE & AI/ML roles
+- **Open for**: Immediate opportunities
+
+---
+
+**Profile Last Updated**: June 2026  
+*Specialized in Full-Stack Development and AI/ML Systems*
